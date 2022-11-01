@@ -9,9 +9,9 @@
 <!--[![HackerRank](https://img.shields.io/badge/-MatheusReali-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/MatheusReali)-->
 
 <!-- Description -->
-My name is Matheus Reali. I'm a Civil Engineer passionate about technology and learning new tools to help me with my daily work.
+Civil engineer with thirsty for learning. I am now trying to apply my new skills in data science to the construction field. My goal is to find new ways to extract, clean and explore data from construction works and use it in my daily work, such as controlling budget, deadlines, quality and safety of services.
 
-I am currently participating in Ironhack's Part Time Data Analyst Bootcamp. My goal is to apply my Data Analysis knowledge to solve problems in all types of fields.
+The civil construction sector has plenty of fields for the implementation of new technologies. These technologies can help us find creative solutions during strategic decision-making through insights gathered from data. The objective is to make constructions better for all stakeholders.
 
 <!-- My tools -->
 ## :briefcase: Languages and tools
